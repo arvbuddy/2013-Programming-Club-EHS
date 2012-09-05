@@ -12,4 +12,5 @@ Members:  Scott Fisk
 Rules:
 
 1) leave comments to explain changes.
+
 2) If it's not your code, ask before changing / deleting it.
